@@ -1,0 +1,26 @@
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.weather {
+  margin-top: 20px;
+}
+
+input[type="text"] {
+  padding: 8px;
+  width: 200px;
+}
+
+button {
+  padding: 8px 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#weatherInfo {
+  margin-top: 20px;
+}
