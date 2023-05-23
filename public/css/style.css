@@ -1,11 +1,13 @@
 .container {
-    height: 400px;
+    height: 380px;
     margin: 0 auto;
     text-align: center;
-    width: 510px;
-    padding-top: 90px;
-    background-image: url("https://media.istockphoto.com/id/531889697/photo/weather-forecast-concept.jpg?b=1&s=170667a&w=0&k=20&c=Jci9nrgcCSfOx8ZgfO9KbMKr3r0i28B1fwN20r8KmFA=");
+    width: 520px;
+    background-image: url(https://media.istockphoto.com/id/531889697/photo/weather-forecast-concept.jpg?b=1&s=170667a&w=0&k=20&c=Jci9nrgcCSfOx8ZgfO9KbMKr3r0i28B1fwN20r8KmFA=);
     background-repeat: no-repeat;
+    padding-top: 20px;
+    color: #ff005dd1;
+    font-weight: bold;
 }
 
 .weather {
